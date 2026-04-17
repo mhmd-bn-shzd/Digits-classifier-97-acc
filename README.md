@@ -1,13 +1,13 @@
-# Digits Classifier
+# Digits Classifier on MNIST dataset
 
-This project is a ResNet-inspired handwritten digit classifier built with TensorFlow.
+This model is a ResNet inspired handwritten decimal digit classifier built using TensorFlow Keras Functional API.
 
-It includes:
+## Contents:
 
 - `ResNet.ipynb` for model experimentation and training
-- `predict.py` for loading the trained weights and running inference
+- `predict.py` for running inference on the model
 - Pretrained model files: `Classifier.weights.h5`, `DigitClassifier.h5`, and `ResNetDigitClassifier.keras`
-- A sample image, `seven.png`, used by the prediction script
+- A sample image used by the prediction script
 
 ## Requirements
 
